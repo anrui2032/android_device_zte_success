@@ -297,12 +297,14 @@ PRODUCT_PACKAGES += \
     init.qcom.power.rc \
     init.recovery.qcom.rc \
     init.target.rc \
+    init.vendor.usb.rc \
     ueventd.qcom.rc
 
 PRODUCT_PACKAGES += \
     init.qcom.early_boot.sh \
     init.qcom.sh \
-    init.qcom.usb.sh
+    init.qcom.usb.sh \
+    init.vendor.usb.sh
 
 # RenderScript
 PRODUCT_PACKAGES += \
