@@ -42,7 +42,7 @@
 #include "property_service.h"
 #include "vendor_init.h"
 
-#include "init_msm8937.h"
+#include "init_success.h"
 
 using android::base::GetProperty;
 using android::init::property_set;
