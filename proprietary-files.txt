@@ -332,6 +332,16 @@ vendor/lib64/libmmcamera_dbg.so
 vendor/lib64/libmmcamera_tintless_algo.so
 vendor/lib64/libmmcamera_tintless_bg_pca_algo.so
 
+# Fingerprint - from success - OPM1.171019.026.P450S10V1.0.1B15
+vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service
+vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc
+vendor/lib/com.fingerprints.extension@1.0.so
+vendor/lib/mmi_fingerprint.so
+vendor/lib/vendor.qti.hardware.fingerprint@1.0.so
+vendor/lib64/com.fingerprints.extension@1.0.so
+vendor/lib64/mmi_fingerprint.so
+vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
+
 # Graphics firmware - from success - OPM1.171019.026.P450S10V1.0.1B15
 vendor/firmware/a506_zap.b00
 vendor/firmware/a506_zap.b01
