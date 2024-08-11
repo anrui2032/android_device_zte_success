@@ -41,6 +41,7 @@ setup_vendor "$DEVICE" "$VENDOR" "$LINEAGE_ROOT"
 write_headers
 
 # The standard device blobs
+write_makefiles "$MY_DIR"/proprietary-files.txt true
 write_makefiles "$MY_DIR"/proprietary-files-qc.txt true
 
 # We are done!
