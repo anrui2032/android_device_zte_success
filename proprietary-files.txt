@@ -24,6 +24,13 @@ vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
 
+# Audio settings - from success - OPM1.171019.026.P450S10V1.0.1B15
+vendor/etc/drc/drc_cfg_5.1.txt
+vendor/etc/drc/drc_cfg_AZ.txt
+vendor/etc/surround_sound_3mic/surround_sound_rec_5.1.cfg
+vendor/etc/surround_sound_3mic/surround_sound_rec_AZ.cfg
+vendor/firmware/tfa98xx.cnt
+
 # Camera - from success - OPM1.171019.026.P450S10V1.0.1B15
 lib64/libseemore.so
 vendor/bin/mm-qcamera-daemon
