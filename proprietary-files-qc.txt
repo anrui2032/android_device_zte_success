@@ -362,6 +362,7 @@ framework/qcrilhook.jar|784df5e6aa9df0127700b9a6f1083440ebfac057
 framework/qti-telephony-common.jar|b1953a3599255f08f1785c677d22810f65e0167b
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|d1d3adfe6eff32a3013e146317324029181e3c4a
 vendor/bin/ATFWD-daemon|fe4aac322811c2e025126cded50dd3f12e14e34c
+vendor/bin/ipacm-diag|4dc647f49c278905e69af0ba9d8271927cd1859c
 vendor/bin/netmgrd|3925e0023817782852b6a036164616a2d5dd0d4a
 vendor/bin/qti|db3cdf088d1e81f79cf9739817ae4adff4309f86
 vendor/bin/rmt_storage|346ef281e829109ba11af912509309e520351ef9
