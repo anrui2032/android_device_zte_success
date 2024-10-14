@@ -238,12 +238,6 @@ vendor/lib64/libmmcamera_dbg.so|84b221f70c4ebae638c78e347839718c3a5e36bf
 vendor/lib64/libmmcamera_tintless_algo.so|b51a92556992724caac1f47afca5b79514e6075b
 vendor/lib64/libmmcamera_tintless_bg_pca_algo.so|4c6364726bb6cf5859a670ce9ba5f728e8a6327b
 
-# Gatekeeper - from success - OPM1.171019.026.P450S10V1.0.1B15
-vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti|15089bcd370a18ed6c498b1c8b7675b33ec3d2f9
-vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc|1b8d5f58fe0a57906acf72b862c16a2521daa97b
-vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so|7c4bac7120a8836e101622c750a226f2ad6b4905
-vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so|fa40de5d5623c082c0269d6060052bf996710470
-
 # Graphics firmware - from success - OPM1.171019.026.P450S10V1.0.1B15
 vendor/firmware/a506_zap.b00|c45a7b34456844f5deb73e2dce79cbfcfb9ae71c
 vendor/firmware/a506_zap.b01|9f98cb853267209f0b2fcd16c5801c371d65b3b5
@@ -251,15 +245,3 @@ vendor/firmware/a506_zap.b02|b79957c47f0a6757ac1d721dbe06551508454634
 vendor/firmware/a506_zap.mdt|769304e8da9f56d4229291b4896c8af0c92bf815
 vendor/firmware/a530_pfp.fw|448f9db8271fefb08348cbc50409e8e95bd93f78
 vendor/firmware/a530_pm4.fw|5741a28752355b478d455635bab008028ff7e1c6
-
-# Keymaster - from success - OPM1.171019.026.P450S10V1.0.1B15
-vendor/bin/hw/android.hardware.keymaster@3.0-service-qti|50c0325fe38b2dd2133b1fd2e436d5d74970a14a
-vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc|573b7392c8997008204081165cfe81a11080745d
-vendor/lib/libkeymasterdeviceutils.so|edc9c4160d02b741a5db3cf979da58cafe5acfe4
-vendor/lib/libkeymasterprovision.so|cec18f94732fd9f87c24ccb260dc472399144a42
-vendor/lib/libkeymasterutils.so|68b66904ac6e44d5cce1b9fedf5a915840445bb9
-vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so|24f1fd458246ce95e564e0cb159107ed1baaace2
-vendor/lib64/libkeymasterdeviceutils.so|dd6fcff33f4d16eaabf57db99bbe4c93c5c3a232
-vendor/lib64/libkeymasterprovision.so|06888ee79bd16cf1d0693e67758c4b732263a8d6
-vendor/lib64/libkeymasterutils.so|5971f97a197108f542c418cd74854ebd799dab0b
-vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so|5b903cb3f3c301b694cb6b2cb29c56f1f05051c5

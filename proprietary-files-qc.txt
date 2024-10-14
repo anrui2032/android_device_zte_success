@@ -117,6 +117,12 @@ vendor/lib64/libdrmtime.so|4efeb1449809aa172e68fe5bf5aa68be0f21387d
 vendor/lib64/librpmb.so|ba775205529284dc5d2233f11462037538f763af
 vendor/lib64/libssd.so|0e988e6ef7b1d356f4b92a26a61b96a840de1d20
 
+# Gatekeeper - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
+vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti|eeb4ba9eacb57c958051a47d307968254ee081d0
+vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc|1b8d5f58fe0a57906acf72b862c16a2521daa97b
+vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so|56be1bda02a5b7482525e6597c74a5aad162c721
+vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so|23ea2258775e3ba5150afdc2f567d47db3ad5010
+
 # GPS - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
 vendor/bin/hw/vendor.qti.gnss@1.0-service|049201d8e22064b87eb52df208d8cda7066d140a
 vendor/bin/loc_launcher|23a4470552c0c418662a7d91fa7f593bee767459
@@ -240,6 +246,18 @@ vendor/lib64/lib-uceservice.so|31dae56817e9a47849cac15a8812b12ebec6bca9
 vendor/lib64/vendor.qti.ims.callinfo@1.0.so|5862ab34c0d040dba63eced727146dd233cf92ee
 vendor/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so|f4eef520bbf98e6e1ac8697ef7eef0109487dba1
 vendor/lib64/vendor.qti.imsrtpservice@1.0.so|559a2dbf409d86746ed4303f2e0089256bb91a07
+
+# Keymaster - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
+vendor/bin/hw/android.hardware.keymaster@3.0-service-qti|023a0e237fbc068a3191e91e5a1ec0ea5831d52b
+vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc|573b7392c8997008204081165cfe81a11080745d
+vendor/lib/libkeymasterdeviceutils.so|1860ef88bd3d007329b1ce1938fd9e4c1aba0c4e
+vendor/lib/libkeymasterprovision.so|900ee91eb14e6184f6e92df0e1dd65217306e6e3
+vendor/lib/libkeymasterutils.so|7e5e92470b5e7e42557cd07e4cd8873499df0346
+vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so|81fcc03daff3d4d0bd205abe7dce89f68ee9e72c
+vendor/lib64/libkeymasterdeviceutils.so|3b4d1b97549b15d85254739613fc8d772f716806
+vendor/lib64/libkeymasterprovision.so|7ad925d46a558a8c086a61e022eef328b2516f43
+vendor/lib64/libkeymasterutils.so|4c8273711b5ba1a503d4581f661ed20a1578810d
+vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so|4df4634632c36bd48ccc9de73b77713cd658b012
 
 # Listen - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
 vendor/lib/hw/sound_trigger.primary.msm8953.so|c5da1142ec362219503e546221866f36e3d50be4
