@@ -8,6 +8,13 @@ vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb|2dde0963b2c3076a3edadbf58af9345ab42
 vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb|9e563bfc420edd3d48d2246ef0fe531d3972ff1c
 vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp|4c911f0186bb50c30b7aacbf73ded6cf48d0069a
 
+# Audio settings - from success - OPM1.171019.026.P450S10V1.0.1B15
+vendor/etc/drc/drc_cfg_5.1.txt|01a86d1c8bd9123ccf763620031c800f624b54b3
+vendor/etc/drc/drc_cfg_AZ.txt|67d6ed8524c6aced5327f3d76141787af7858723
+vendor/etc/surround_sound_3mic/surround_sound_rec_5.1.cfg|ed2a1e071af7ed0ecdbb4f71c4b14c9ca4e5bf7e
+vendor/etc/surround_sound_3mic/surround_sound_rec_AZ.cfg|cc78904b69e85281b91c94f474bdd40b5c4d9907
+vendor/firmware/tfa98xx.cnt|8f359a123f3388f49de6e4fc3d05212af3c8e107
+
 # Camera - from success - OPM1.171019.026.P450S10V1.0.1B15
 lib64/libseemore.so|78ed5d4cca9bb903d658e391c310e10a12f96962
 vendor/bin/mm-qcamera-daemon|3e325b6f9dd0e07f4540ad4b06814f1754f5f87b
