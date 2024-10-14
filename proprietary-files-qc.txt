@@ -117,9 +117,6 @@ vendor/lib64/libdrmtime.so|4efeb1449809aa172e68fe5bf5aa68be0f21387d
 vendor/lib64/librpmb.so|ba775205529284dc5d2233f11462037538f763af
 vendor/lib64/libssd.so|0e988e6ef7b1d356f4b92a26a61b96a840de1d20
 
-# Gatekeeper - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
-vendor/lib64/hw/gatekeeper.msm8953.so|c1b386547234815a0d6116b5e4756de66075cd3f
-
 # GPS - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
 vendor/bin/hw/vendor.qti.gnss@1.0-service|049201d8e22064b87eb52df208d8cda7066d140a
 vendor/bin/loc_launcher|23a4470552c0c418662a7d91fa7f593bee767459
@@ -243,9 +240,6 @@ vendor/lib64/lib-uceservice.so|31dae56817e9a47849cac15a8812b12ebec6bca9
 vendor/lib64/vendor.qti.ims.callinfo@1.0.so|5862ab34c0d040dba63eced727146dd233cf92ee
 vendor/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so|f4eef520bbf98e6e1ac8697ef7eef0109487dba1
 vendor/lib64/vendor.qti.imsrtpservice@1.0.so|559a2dbf409d86746ed4303f2e0089256bb91a07
-
-# Keymaster - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
-vendor/lib64/hw/keystore.msm8953.so|f71f1439c9c356ce05d88b876253b4e3dcb10f4b
 
 # Listen - from daisy - PKQ1.180917.001.V10.0.2.0.PDLMIFJ
 vendor/lib/hw/sound_trigger.primary.msm8953.so|c5da1142ec362219503e546221866f36e3d50be4
